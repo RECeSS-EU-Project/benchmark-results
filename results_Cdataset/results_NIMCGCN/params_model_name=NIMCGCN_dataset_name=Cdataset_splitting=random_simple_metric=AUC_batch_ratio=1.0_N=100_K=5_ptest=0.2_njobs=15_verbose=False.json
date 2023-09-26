@@ -1,0 +1,1 @@
+{"model_name": "NIMCGCN", "dataset_name": "Cdataset", "splitting": "random_simple", "params": null, "metric": "AUC", "batch_ratio": 1.0, "N": 100, "K": 5, "ptest": 0.2, "njobs": 15, "verbose": false, "results_folder": "/storage/store3/work/creda/results_Cdataset//results_NIMCGCN/", "datasets_folder": "/storage/store3/work/creda/results_Cdataset/datasets/"}

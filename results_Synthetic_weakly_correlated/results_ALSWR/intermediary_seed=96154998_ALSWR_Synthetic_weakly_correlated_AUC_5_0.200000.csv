@@ -1,0 +1,12 @@
+,15_ALSWR
+ACC,0.0
+AUC,
+HR@10,0.0
+HR@2,0.0
+HR@5,0.0
+Lin's AUC,0.5
+NDCGk,
+global AUC,0.0362595419847328
+global NDCG,0.7211077900796102
+prediction time (sec),0.03356671333312988
+training time (sec),146.2105770111084
