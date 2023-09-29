@@ -1,0 +1,1 @@
+{"model_name": "BNNR", "dataset_name": "Cdataset", "splitting": "random_simple", "params": null, "metric": "AUC", "batch_ratio": 1.0, "N": 100, "K": 5, "ptest": 0.2, "njobs": 1, "verbose": false, "results_folder": "./results_Cdataset//results_BNNR/", "datasets_folder": "./results_Cdataset//datasets/"}
