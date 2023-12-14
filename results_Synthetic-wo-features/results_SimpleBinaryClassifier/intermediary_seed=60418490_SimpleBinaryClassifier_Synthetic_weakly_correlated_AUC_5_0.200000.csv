@@ -1,0 +1,12 @@
+,16_SimpleBinaryClassifier
+ACC,1.0
+AUC,
+HR@10,0.0
+HR@2,0.0
+HR@5,0.0
+Lin's AUC,0.2956131578947368
+NDCGk,
+global AUC,0.9493271751261104
+global NDCG,0.9061081650977995
+prediction time (sec),0.30999279022216797
+training time (sec),32.79547691345215
