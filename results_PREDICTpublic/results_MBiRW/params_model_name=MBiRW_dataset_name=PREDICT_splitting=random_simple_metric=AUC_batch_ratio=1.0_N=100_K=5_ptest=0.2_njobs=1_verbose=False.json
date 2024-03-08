@@ -1,1 +1,0 @@
-{"model_name": "MBiRW", "dataset_name": "PREDICT", "splitting": "random_simple", "params": null, "metric": "AUC", "batch_ratio": 1.0, "N": 100, "K": 5, "ptest": 0.2, "njobs": 1, "verbose": false, "results_folder": "../benchmark-results/results_PREDICTpublic//results_MBiRW/", "datasets_folder": "../benchmark-results/results_PREDICTpublic//datasets/"}
